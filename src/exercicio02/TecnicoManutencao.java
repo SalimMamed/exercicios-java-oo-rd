@@ -1,7 +1,9 @@
 package exercicio02;
 
-public class TecnicoManutencao {
+public class TecnicoManutencao extends Funcionario{
 
-    // TODO: implemente o código desta classe
+    private double bonusAnual = 0.05;
+
+    private double insalubridade =0.10;
 
 }

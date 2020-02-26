@@ -1,7 +1,10 @@
 package exercicio02;
 
-public class AuxiliarEscritorio {
+public class AuxiliarEscritorio extends Funcionario {
 
-    // TODO: implemente o código desta classe
+    private double bonusAnual = 0.05;
 
-}
+    }
+
+
+

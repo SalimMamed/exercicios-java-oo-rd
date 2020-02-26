@@ -2,6 +2,12 @@ package exercicio02;
 
 public abstract class Funcionario {
 
-    // TODO: implemente o código desta classe
+    private String nome;
+    private int salarioMensal;
+
+    public void salarioAnual();{
+        System.out.println(salarioMensal * 13);
+
+    }
 
 }

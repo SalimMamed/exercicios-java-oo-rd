@@ -27,6 +27,8 @@ public class Exercicio01 {
      * @return Set<Integer>
      */
     private static Set<Integer> getSetDe(int[] numeros) {
+
+        System.out.println();
         // TODO: implemente o código deste método
         return null;
     }
